@@ -84,6 +84,7 @@ header {
     align-items: center;
     text-align: center;
     width: 7rem;
+    font-size: 18px;
 }
 .thumbnail > img {
     border: 3px solid #3882F6;
@@ -91,14 +92,10 @@ header {
     width: 100%;
     height: 7rem;
 }
-.thumbnail > p {
-    font-size: 18px;
-}
 
 #quote-section {
     background-color: #E5E7EB;
     padding: 80px 200px;
-    width:fit-content;
     text-align: left;
     display: flex;
     flex-direction: column;
@@ -134,7 +131,6 @@ header {
     flex-direction: column;
 }
 .signup-txt2 {
-    color: #E5E7EB;
     font-size: 18px;
     font-weight: lighter;
 }
